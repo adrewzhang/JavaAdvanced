@@ -4,4 +4,4 @@
   <a href="https://blog.csdn.net/v123411739"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="程序员囧辉"></a>
 </p>
 
-![](/pic/gzh.jpg)
+![程序员囧辉](https://img-blog.csdnimg.cn/20191026124029516.jpg)
