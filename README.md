@@ -5,5 +5,5 @@
   <a href="https://blog.csdn.net/v123411739"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
 </p>
 
-# 公众号
- ![](https://img-blog.csdnimg.cn/20191026124029516.jpg)
+# <a name="公众号">公众号</a>
+<div align=center>![](https://img-blog.csdnimg.cn/20191026124029516.jpg)</div>
