@@ -6,4 +6,4 @@
 </p>
 
 # <a name="公众号">公众号</a>
-<center> ![](https://img-blog.csdnimg.cn/20191026124029516.jpg) </center>
+ ![](https://img-blog.csdnimg.cn/20191026124029516.jpg)
