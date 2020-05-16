@@ -1,4 +1,4 @@
-有问题或者有建议，欢迎在我的[【公众号】](#公众号)留言，第一时间回复。
+文章首发于公众号或CSDN，其他网站也会及时更新，有问题或者有建议，欢迎在我的[【公众号】](#公众号)留言，看到后第一时间回复。
 
 <br/>
 
@@ -25,7 +25,9 @@
 - [线程池详解（ThreadPoolExecutor）](https://mp.weixin.qq.com/s/O6PgmzET9R3HTwkc6kdvuQ)
 - [volatile关键字详解](https://mp.weixin.qq.com/s/Jn6B9C2D4Owu8R5uQcgB-w)
 - [ThreadLocal详解](https://mp.weixin.qq.com/s/06watPhUQu053XDf2kGJ1w)
+- [InheritableThreadLocal详解](https://blog.csdn.net/v123411739/article/details/79117430)
 - [AbstractQueuedSynchronizer详解（独占模式）](https://mp.weixin.qq.com/s/nmTn4w2XQBV0hdIYy3LAbQ)
+- [Condition详解](https://blog.csdn.net/v123411739/article/details/79321408)
 - [面试必问的CAS，你懂了吗？](https://mp.weixin.qq.com/s/ZwIBesNycqtAaZj_OjvhxQ)
 
 ## 程序人生
@@ -61,7 +63,7 @@
 - [Spring AOP：AOP 注解的解析](https://mp.weixin.qq.com/s/Dm5iTOkwZgMxzK6fhmznQQ)
 - [Spring AOP：创建 AOP 代理](https://mp.weixin.qq.com/s/SyFDU1y-x5GBcm4hjBCWRQ)
 - [Spring AOP：一次调用流程](https://mp.weixin.qq.com/s/XqtU7Z0P5qTs7XsISdOXCA)
-
+- [Spring事务配置及事务的传播性与隔离级别详解](https://blog.csdn.net/v123411739/article/details/50803934)
 ## Mybatis
 - [面试题：mybatis 中的 DAO 接口和 XML 文件里的 SQL 是如何建立关系的？](https://mp.weixin.qq.com/s/hqXtwEyRNiXv7qOlg0DVyQ)
 
