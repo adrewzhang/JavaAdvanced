@@ -89,6 +89,6 @@
 # <a name="公众号">公众号</a>
 <p align="center">
     <a href="https://github.com/joonwhee/JavaAdvanced" target="_blank">
-        <img src="https://wx4.sinaimg.cn/mw690/72a7f64ely1geulee4k83j209k09kt8o.jpg" width=""/>
+        <img src="https://img-blog.csdnimg.cn/20191026124029516.jpg" width=""/>
     </a>
 </p>
