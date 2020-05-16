@@ -2,7 +2,9 @@
 
 <br/>
 
-<p align="center"><b> 越努力，越幸运 </b></p>
+<p align="center">
+  <b> 越努力，越幸运 </b>
+</p>
 
 <br/>
 
@@ -85,8 +87,8 @@
 
 
 # <a name="公众号">公众号</a>
-<center>
-
- ![](https://wx4.sinaimg.cn/mw690/72a7f64ely1geulee4k83j209k09kt8o.jpg)
-
-</center>
+<p align="center">
+    <a href="https://github.com/joonwhee/JavaAdvanced" target="_blank">
+        <img src="https://wx4.sinaimg.cn/mw690/72a7f64ely1geulee4k83j209k09kt8o.jpg" width=""/>
+    </a>
+</p>
