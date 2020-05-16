@@ -2,7 +2,7 @@
 
 <br/>
 
-<center><b> 越努力，越幸运 </b></center>
+<p align="center"><b> 越努力，越幸运 </b></p>
 
 <br/>
 
