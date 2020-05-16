@@ -87,6 +87,6 @@
 # <a name="公众号">公众号</a>
 <center>
 
- ![](/pic/gzh.jpg)
+ ![](https://wx4.sinaimg.cn/mw690/72a7f64ely1geulee4k83j209k09kt8o.jpg)
 
 </center>
