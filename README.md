@@ -9,9 +9,11 @@
 <br/>
 
 <p align="center">
-  <a href="#公众号"><img src="https://img.shields.io/badge/公众号-程序员囧辉-blue.svg" alt="公众号"></a>
-  <a href="https://www.zhihu.com/people/opiece.me"><img src="https://img.shields.io/badge/zhihu-知乎-brightgreen.svg" alt="知乎"></a>
+  <a href="#公众号"><img src="https://img.shields.io/badge/公众号-程序员囧辉-green.svg" alt="公众号"></a>
+  <a href="https://www.zhihu.com/people/opiece.me"><img src="https://img.shields.io/badge/zhihu-知乎-blue.svg" alt="知乎"></a>
   <a href="https://blog.csdn.net/v123411739"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
+  <a href="https://juejin.im/user/5cc6df6d6fb9a031fb2cdde2"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="掘金"></a>
+  <a href="https://www.jianshu.com/u/4f604d2ef284"><img src="https://img.shields.io/badge/jianshu-简书-orange.svg" alt="投稿"></a>
 </p>
 
 ## 面试
@@ -23,7 +25,6 @@
 - [Java虚拟机面试题精选（一）](https://mp.weixin.qq.com/s/kQgsR5RxTOOgzlEGQx8OWw)
 - [Java虚拟机面试题精选（二）](https://mp.weixin.qq.com/s/h4_MU2qOoOFjgCO11i55Dw)
 - [一道有意思的“初始化”面试题](https://mp.weixin.qq.com/s/WPjyOoLHdOifbKTGwifR9g)
-
 
 ## Java核心基础
 - [ArrayList详解](https://mp.weixin.qq.com/s/-zVj4f14xYISufeZEsSunw)
