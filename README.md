@@ -1,4 +1,4 @@
-文章首发于[【公众号】](#公众号)或[【CSDN】](https://blog.csdn.net/v123411739)，其他网站也会及时更新，有问题或者有建议，欢迎在我的[【公众号】](#公众号)留言，看到后第一时间回复。
+文章首发于[【公众号】](#公众号)，其他网站也会及时更新，有问题或者有建议，欢迎在我的[【公众号】](#公众号)留言，看到后第一时间回复。
 
 <br/>
 
@@ -14,10 +14,20 @@
   <a href="https://blog.csdn.net/v123411739"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="CSDN"></a>
 </p>
 
+## 面试
+- [面试题：mybatis 中的 DAO 接口和 XML 文件里的 SQL 是如何建立关系的？](https://mp.weixin.qq.com/s/hqXtwEyRNiXv7qOlg0DVyQ)
+- [4 年 Java 经验面试总结、心得体会](https://mp.weixin.qq.com/s/sy3xzpL0q9sKVhp6m7fv7A)
+- [两年Java开发工作经验面试总结](https://mp.weixin.qq.com/s/socmK5L8aiXKlrpBs7AJ7g)
+- [面试必问的CAS，你懂了吗？](https://mp.weixin.qq.com/s/ZwIBesNycqtAaZj_OjvhxQ)
+- [位图法：判断一个数是否在40亿个整数中？](https://mp.weixin.qq.com/s/C_hG9YdWmOAO44y8aYZmuA)
+- [Java虚拟机面试题精选（一）](https://mp.weixin.qq.com/s/kQgsR5RxTOOgzlEGQx8OWw)
+- [Java虚拟机面试题精选（二）](https://mp.weixin.qq.com/s/h4_MU2qOoOFjgCO11i55Dw)
+- [一道有意思的“初始化”面试题](https://mp.weixin.qq.com/s/WPjyOoLHdOifbKTGwifR9g)
+
+
 ## Java核心基础
 - [ArrayList详解](https://mp.weixin.qq.com/s/-zVj4f14xYISufeZEsSunw)
 - [LinkedList详解](https://mp.weixin.qq.com/s/tXK9sC1JENJYHjXAzCFDLg)
-- [一道有意思的“初始化”面试题](https://mp.weixin.qq.com/s/WPjyOoLHdOifbKTGwifR9g)
 - [关于自增操作，你真的懂了吗？](https://mp.weixin.qq.com/s/6zFUXoqHdfevcHYCmkQYqA)
 - [史上最详细的 JDK 1.8 HashMap 源码解析](https://mp.weixin.qq.com/s/Sm7AOKxuosv5AJ6i1AopHw)
 
@@ -28,13 +38,10 @@
 - [InheritableThreadLocal详解](https://blog.csdn.net/v123411739/article/details/79117430)
 - [AbstractQueuedSynchronizer详解（独占模式）](https://mp.weixin.qq.com/s/nmTn4w2XQBV0hdIYy3LAbQ)
 - [Condition详解](https://blog.csdn.net/v123411739/article/details/79321408)
-- [面试必问的CAS，你懂了吗？](https://mp.weixin.qq.com/s/ZwIBesNycqtAaZj_OjvhxQ)
 
 ## 程序人生
-- [两年Java开发工作经验面试总结](https://mp.weixin.qq.com/s/socmK5L8aiXKlrpBs7AJ7g)
 - [如何养成学习的习惯](https://mp.weixin.qq.com/s/NcpipI61ka_5ZIkv6PLNOg)
 - [0基础Java自学之路](https://mp.weixin.qq.com/s/pIqRi1btTP1oEaTbuVUzfA)
-- [4 年 Java 经验面试总结、心得体会](https://mp.weixin.qq.com/s/sy3xzpL0q9sKVhp6m7fv7A)
 
 ## 项目常用工具
 - [Log4j2与Slf4j的最佳实践](https://mp.weixin.qq.com/s/Sfq3IfKDxnluP3Gknz5QHA)
@@ -64,8 +71,6 @@
 - [Spring AOP：创建 AOP 代理](https://mp.weixin.qq.com/s/SyFDU1y-x5GBcm4hjBCWRQ)
 - [Spring AOP：一次调用流程](https://mp.weixin.qq.com/s/XqtU7Z0P5qTs7XsISdOXCA)
 - [Spring事务配置及事务的传播性与隔离级别详解](https://blog.csdn.net/v123411739/article/details/50803934)
-## Mybatis
-- [面试题：mybatis 中的 DAO 接口和 XML 文件里的 SQL 是如何建立关系的？](https://mp.weixin.qq.com/s/hqXtwEyRNiXv7qOlg0DVyQ)
 
 ## Java虚拟机
 - [Java虚拟机：Java内存区域](https://mp.weixin.qq.com/s/_7rf_ojsNtsDj3Fo4Ol8dA)
@@ -73,8 +78,6 @@
 - [Java虚拟机：垃圾收集器](https://mp.weixin.qq.com/s/O_wd1EWVVOZnm1oEnzYqBQ)
 - [Java虚拟机：虚拟机类加载机制](https://mp.weixin.qq.com/s/LHA0XztOhYTdI_l_SetlIw)
 - [Java虚拟机：内存分配与回收策略](https://mp.weixin.qq.com/s/dZyCTfYhcisctks36atA6A)
-- [Java虚拟机面试题精选（一）](https://mp.weixin.qq.com/s/kQgsR5RxTOOgzlEGQx8OWw)
-- [Java虚拟机面试题精选（二）](https://mp.weixin.qq.com/s/h4_MU2qOoOFjgCO11i55Dw)
 
 ## 设计模式
 - [单例模式详解](https://mp.weixin.qq.com/s/2zZkmQJ86oGqdazOob6tYQ)
@@ -85,8 +88,6 @@
 - [排序算法：选择排序](https://mp.weixin.qq.com/s/jJsYt8J5XkyuuSDQZfFUJA)
 - [排序算法：快速排序](https://mp.weixin.qq.com/s/RMZ45sGBwXfv_6cwjgiFiw)
 - [排序算法：归并排序](https://mp.weixin.qq.com/s/ThEi7d9oZl0ECgLtYqDRdA)
-- [位图法：判断一个数是否在40亿个整数中？](https://mp.weixin.qq.com/s/C_hG9YdWmOAO44y8aYZmuA)
-
 
 # <a name="公众号">公众号</a>
 <p align="center">
