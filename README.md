@@ -18,6 +18,11 @@
 </p>
 
 ## 文章
+### 程序人生
+- [2年6个月11天，外包到阿里的修仙之路](https://mp.weixin.qq.com/s/8KwpwOoRk--hSgN0afhcNQ)
+- [如何养成学习的习惯](https://mp.weixin.qq.com/s/NcpipI61ka_5ZIkv6PLNOg)
+- [0基础Java自学之路](https://mp.weixin.qq.com/s/pIqRi1btTP1oEaTbuVUzfA)
+
 ### 面试
 - [面试题：mybatis 中的 DAO 接口和 XML 文件里的 SQL 是如何建立关系的？](https://mp.weixin.qq.com/s/hqXtwEyRNiXv7qOlg0DVyQ)
 - [4 年 Java 经验面试总结、心得体会](https://mp.weixin.qq.com/s/sy3xzpL0q9sKVhp6m7fv7A)
@@ -41,10 +46,6 @@
 - [InheritableThreadLocal详解](https://blog.csdn.net/v123411739/article/details/79117430)
 - [AbstractQueuedSynchronizer详解（独占模式）](https://mp.weixin.qq.com/s/nmTn4w2XQBV0hdIYy3LAbQ)
 - [Condition详解](https://blog.csdn.net/v123411739/article/details/79321408)
-
-### 程序人生
-- [如何养成学习的习惯](https://mp.weixin.qq.com/s/NcpipI61ka_5ZIkv6PLNOg)
-- [0基础Java自学之路](https://mp.weixin.qq.com/s/pIqRi1btTP1oEaTbuVUzfA)
 
 ### 项目常用工具
 - [Log4j2与Slf4j的最佳实践](https://mp.weixin.qq.com/s/Sfq3IfKDxnluP3Gknz5QHA)
