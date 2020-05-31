@@ -24,6 +24,7 @@
 - [0基础Java自学之路](https://mp.weixin.qq.com/s/pIqRi1btTP1oEaTbuVUzfA)
 
 ### 面试
+- [面试阿里，HashMap 这一篇就够了](https://mp.weixin.qq.com/s/3hi33ueXoau1S6CVtayHPw)
 - [面试题：mybatis 中的 DAO 接口和 XML 文件里的 SQL 是如何建立关系的？](https://mp.weixin.qq.com/s/hqXtwEyRNiXv7qOlg0DVyQ)
 - [4 年 Java 经验面试总结、心得体会](https://mp.weixin.qq.com/s/sy3xzpL0q9sKVhp6m7fv7A)
 - [两年Java开发工作经验面试总结](https://mp.weixin.qq.com/s/socmK5L8aiXKlrpBs7AJ7g)
