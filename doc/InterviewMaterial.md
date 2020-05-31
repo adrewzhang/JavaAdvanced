@@ -4,10 +4,12 @@
 - [面试心得与总结---BAT、网易、蘑菇街](https://www.nowcoder.com/discuss/3043?type=2&order=0&pos=5&page=2)
 - [关于Java面试，你应该准备这些知识点](https://www.jianshu.com/p/1b2f63a45476)
 
-## 初学
+## 入门
 - Java快速入门教程视频：https://pan.baidu.com/s/14IrY1eiOb4VFem0Dp6XETA 提取码：vm8z
 - 零起点打开java世界的大门视频：https://pan.baidu.com/s/1dtXGHXRhAUZedzbUDOf0fQ 
 提取码：10ny
+- 汤阳光全面教程：https://pan.baidu.com/s/1kTIOGOG2W24LovtCFWocCw 提取码：fzol 
+- 马士兵自学教程：https://pan.baidu.com/s/1zHrwdmeiQMD-HZVDZo7H6g 提取码：mukq 
 
 ## 进阶
 - JAVA核心知识点整理：https://pan.baidu.com/s/1jnHhZr7mlGhSm1YdqCLIoA 提取码：1x10 
