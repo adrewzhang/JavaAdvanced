@@ -1,17 +1,29 @@
-## 面经
+## 面试题整理
 - [Java面试题全集（上）](https://blog.csdn.net/jackfrued/article/details/44921941)
 - [各大公司Java后端开发面试题总结](https://blog.csdn.net/sinat_35512245/article/details/59056120)
 - [面试心得与总结---BAT、网易、蘑菇街](https://www.nowcoder.com/discuss/3043?type=2&order=0&pos=5&page=2)
 - [关于Java面试，你应该准备这些知识点](https://www.jianshu.com/p/1b2f63a45476)
+- [JAVA核心知识点整理](https://pan.baidu.com/s/1jnHhZr7mlGhSm1YdqCLIoA) 提取码：1x10 
 
-## 入门
+
+## 自学全套教程
+- 汤阳光全面教程：https://pan.baidu.com/s/1kTIOGOG2W24LovtCFWocCw 提取码：fzol 
+- 马士兵完整版+个人补充（2个项目）：https://pan.baidu.com/s/1zHrwdmeiQMD-HZVDZo7H6g 提取码：mukq 
+- 囧辉整理版自学教程：https://pan.baidu.com/s/1uNjyVNvyhBNQYxUttijXMw 提取码：679s
+
+## 初级教程
 - Java快速入门教程视频：https://pan.baidu.com/s/14IrY1eiOb4VFem0Dp6XETA 提取码：vm8z
 - 零起点打开java世界的大门视频：https://pan.baidu.com/s/1dtXGHXRhAUZedzbUDOf0fQ 
 提取码：10ny
-- 汤阳光全面教程：https://pan.baidu.com/s/1kTIOGOG2W24LovtCFWocCw 提取码：fzol 
-- 马士兵自学教程：https://pan.baidu.com/s/1zHrwdmeiQMD-HZVDZo7H6g 提取码：mukq 
+- 毕向东Java基础全套：https://pan.baidu.com/s/1qF4KKa2K5O-aNKl-ppIB4A 提取码：8zyy
 
-## 进阶
-- JAVA核心知识点整理：https://pan.baidu.com/s/1jnHhZr7mlGhSm1YdqCLIoA 提取码：1x10 
-- Mysql 高级：https://pan.baidu.com/s/1cjzR8-XhfEUXsUq0rzdGMA 提取码：os1k 
+## 中级教程
+- Redis从入门到高可用，分布式实践：https://pan.baidu.com/s/1Z5GYI8pOass6CpwwIw2Ydg 提取码: p669
+- JavaWeb图书管理系统视频+资料+笔记链接：https://pan.baidu.com/s/1KMNxHLFXvxx5M8OFOEpMcg 提取码: u3ba
+- 设计模式+算法：https://pan.baidu.com/s/10UnjpUiX1h2Dt45knr-kCg 提取码: tabm
+
+## 高级教程
+- Java架构进阶之BATJ面试攻略：https://pan.baidu.com/s/1htq77cmKT1kqChUUmLIJrg 提取码: qdxu
 - BATJ一线互联网架构师的进阶公开课：https://pan.baidu.com/s/1nVvbRQygd59X-qqDzMd3Iw 提取码：butx 
+- BAT面试涉及源码解析：https://pan.baidu.com/s/1wPy4khsgqDYoCskWARh6dg 提取码: sfim
+- Mysql 高级：https://pan.baidu.com/s/1cjzR8-XhfEUXsUq0rzdGMA 提取码：os1k
