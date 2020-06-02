@@ -19,6 +19,7 @@
 
 ## 文章
 ### 程序人生
+- [复习2个月拿下美团offer，我都做了些啥](https://mp.weixin.qq.com/s/X0PZq_T_wmXnDFoXVB6F1Q)
 - [2年6个月11天，外包到阿里的修仙之路](https://mp.weixin.qq.com/s/8KwpwOoRk--hSgN0afhcNQ)
 - [如何养成学习的习惯](https://mp.weixin.qq.com/s/NcpipI61ka_5ZIkv6PLNOg)
 - [0基础Java自学之路](https://mp.weixin.qq.com/s/pIqRi1btTP1oEaTbuVUzfA)
@@ -95,7 +96,7 @@
 - [排序算法：归并排序](https://mp.weixin.qq.com/s/ThEi7d9oZl0ECgLtYqDRdA)
 
 ## 福利
-- [面试资料](https://github.com/joonwhee/JavaAdvanced/blob/master/doc/InterviewMaterial.md)
+- [面试资料（持续更新）](https://github.com/joonwhee/JavaAdvanced/blob/master/doc/InterviewMaterial.md)
 
 ## <a name="公众号">公众号</a>
 <p align="center">
