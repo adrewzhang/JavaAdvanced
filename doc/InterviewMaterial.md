@@ -5,6 +5,9 @@
 - [关于Java面试，你应该准备这些知识点](https://www.jianshu.com/p/1b2f63a45476)
 - [JAVA核心知识点整理](https://pan.baidu.com/s/1jnHhZr7mlGhSm1YdqCLIoA) 提取码：1x10 
 
+## 汤阳光JBPM工作流&OA
+- JBPM教程：https://pan.baidu.com/s/1bqf6kaz 密码：thlt
+- OA教程：https://pan.baidu.com/s/1aGvQfhp9EEeKsbnN6-fDpA 密码：issh
 
 ## 自学全套教程
 - 汤阳光全面教程：https://pan.baidu.com/s/1kTIOGOG2W24LovtCFWocCw 提取码：fzol 
