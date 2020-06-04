@@ -7,7 +7,19 @@
 
 ## 汤阳光JBPM工作流&OA
 - JBPM教程：https://pan.baidu.com/s/1bqf6kaz 密码：thlt
-- OA教程：https://pan.baidu.com/s/1aGvQfhp9EEeKsbnN6-fDpA 密码：issh
+- OA教程：
+  - 链接：https://pan.baidu.com/s/1c3vJive 密码：go75
+  - 链接：https://pan.baidu.com/s/1mjqdjXu 密码：v8fw
+  - 链接：https://pan.baidu.com/s/1htidMJE 密码：r5r3
+  - 链接：https://pan.baidu.com/s/1ggWkO3T 密码：9s7x
+  - 链接：https://pan.baidu.com/s/1oAihMGU 密码：or04
+  - 链接：https://pan.baidu.com/s/1jJzAFbw 密码：pfcf
+  - 链接：https://pan.baidu.com/s/1eTgfYGa 密码：6gx0
+  - 链接：https://pan.baidu.com/s/1ggUOSRD 密码：takk
+  - 链接：https://pan.baidu.com/s/1mkrFsKw 密码：qcws
+  - 链接：https://pan.baidu.com/s/1jKlDJFo 密码：21ki
+  - 链接：https://pan.baidu.com/s/1htMFuJU 密码：9lwn
+  - 链接：https://pan.baidu.com/s/1mjDJIuW 密码：8j3a
 
 ## 自学全套教程
 - 汤阳光全面教程：https://pan.baidu.com/s/1kTIOGOG2W24LovtCFWocCw 提取码：fzol 
